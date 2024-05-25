@@ -1,4 +1,2 @@
 - SideBar
   - [Home](README.md)
-  - [Note](note/)
-  - [Homeworks](homework/)

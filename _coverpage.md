@@ -1,12 +1,5 @@
-![logo](https://ghsrc.wyf9.top/favicon.png)
+![logo](./favicon.png)
 
-# wyf9's Home
+# SiiWay Team
 
-[Sites](#sites)
-[Projects](#projects)
-[Contact](#contact)
-<!--
-[GitHub](https://github.com/wyf9)
-
-![](https://ghimg.wyf9.top/img13z.png)
--->
+Welcome!

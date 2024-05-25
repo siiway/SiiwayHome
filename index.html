@@ -8,8 +8,8 @@
     <link rel="stylesheet" href="https://ghsrc.wyf9.top/docsify/css/vue.css">
     <script src="https://ghsrc.wyf9.top/docsify/vue.global.prod.js"></script>
     <meta http-equiv="Cache-Control" content="max-age=0">
-    <meta name='description' content="wyf9's Homepage">
-<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?">
+    <meta name='description' content="SiiWayHomepage">
+<link rel="icon" href="./favicon.png">
 </head>
 
 <script>
@@ -31,7 +31,7 @@ function parseDate(input) {
             loadSidebar: true,
             subMaxLevel: 4,
             loadNavbar: false,
-            repo: "wyf9/home",
+            repo: "wyf01239/siiwayHome",
             maxLevel: 6,
             auto2top: true,
             executeScript: true,
@@ -51,16 +51,16 @@ function parseDate(input) {
                plugins: [
                 function(hook, vm) {
                     hook.beforeEach(function(html) {
-                        var url = 'https://github.com/wyf9/home/blob/main/' + vm.route.file;
+                        var url = 'https://github.com/wyf01239/siiwayHome/blob/main/' + vm.route.file;
                         var editHtml = '📝 [在 GitHub 上编辑 / Edit on GitHub](' + url + ')';
                         
-                        const ctext = "Copyright ©(year) [wyf9](https://wyf9.top). All Rights Reserved.";
+                        const ctext = "Copyright ©(year) [SiiWay Team](https://about.siiway.top). All Rights Reserved.";
                         const powered = "Powered by [Docsify](https://docsify.js.org) / [Cloudflare Pages](https://pages.cloudflare.com)"
                         const currentYear = new Date().getFullYear();
                         const rtxt = ctext.replace('(year)', currentYear);
                         
                         // 创建某日和今天的日期对象
-                        const startDate = parseDate('2024-02-13'); // 替换为您要计算的某日
+                        const startDate = parseDate('2024-05-26'); // 替换为您要计算的某日
                         const today = new Date();
                         // 计算时间差
                         const timeDiff = Math.abs(today.getTime() - startDate.getTime());
