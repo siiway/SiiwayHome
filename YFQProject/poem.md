@@ -7,7 +7,7 @@
 
 <center>改编: <b>[现代] xhc861</b></center>
 
-**Download PDF [Here](./致卒词·滚滚长江东史水.pdf)**
+**Download PDF [Here](./致卒词·滚滚长江东史水.pdf ':ignore')**
 
 滚滚长江东史水<sup>1</sup>，浪花淘尽蝇熊。是非成败野番茄<sup>2</sup>。
 
