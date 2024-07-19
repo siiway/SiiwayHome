@@ -7,8 +7,6 @@
 
 <center>改编: <b>[现代] xhc861</b></center>
 
-**Download PDF [Here](./致卒词·滚滚长江东史水.pdf ':ignore')**
-
 滚滚长江东史水<sup>1</sup>，浪花淘尽蝇熊。是非成败野番茄<sup>2</sup>。
 
 YFQ 旧在，几度绿上头<sup>3</sup>？
@@ -33,3 +31,5 @@ YFQ 旧在，几度绿上头<sup>3</sup>？
 - <sup>4</sup> 强奸: 原 YFQ 在江边强奸他人，性质恶劣。
 - <sup>5</sup> 牢饭: 指 YFQ 因强奸他人坐牢后执行卒刑前的冬天。
 - <sup>6</sup> 傅死: 同 “赴死”。
+
+**Download PDF [Here](./致卒词·滚滚长江东史水.pdf ':ignore')**
