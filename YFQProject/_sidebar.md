@@ -1,3 +1,3 @@
 - SideBar - YFQProject
   - [Home](README.md)
-  - [致卒词·滚滚长江东史水](poem.md)
+  - [诗词打卡](./poem/README.md)
