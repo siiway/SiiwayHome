@@ -36,7 +36,7 @@ def alter(file, old_str, new_str):
 
 
 try:
-    if not int(env.get("CF_PAGES")) == 1:
+    if not True:#int(env.get("CF_PAGES")) == 1:
         err("Not CF Pages, will not replace index.html.")
     else:
         alter("./index.html", "[ENV_build]", env.get('CF_PAGES_COMMIT_SHA'))
