@@ -1,3 +1,0 @@
-- SideBar - YFQProject
-  - [Home](README.md)
-  - [诗词打卡](./poem/README.md)

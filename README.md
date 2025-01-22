@@ -1,5 +1,9 @@
 # Welcome
 
-Welcome to SiiWay's Homepage!
+本 repo 已弃用.
 
-本站为 SiiWay 团队的主页!
+Refer to new repo: [siiway/blog](https://github.com/siiway/blog)
+
+- https://siiway.top
+
+(c) 2025 SiiWay Team.
